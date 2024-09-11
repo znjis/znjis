@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I'm Ilyes Chikh
 
-<!--
-**znjis/znjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software engineering student** passionate about solving real-world problems with impactful technology. I have experience in event ticketing, streaming, and large-scale system development, and I'm always looking to learn and grow as a software engineer. 
 
-Here are some ideas to get you started:
+### 🌱 What I’m Learning
+- Scaling distributed systems and cloud infrastructure
+- Exploring new tools and frameworks in the software engineering world, including **Kafka**, **Golang**, and **React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+- **Bell Canada** – Software Development Intern in Video Delivery Software (VDS) team, contributing to OTT streaming platform scalability and content protection.
+- **Ticketmaster** – Platform Engineering Intern working on the B2B TM1 platform, automating workflows and improving deployment pipelines.
+
+### ⚡ Fun Fact
+- I love solving problems related to both back-end and front-end development, and I’m always eager to take on new challenges.
+
+### 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/znjis)
+
+Feel free to explore my repositories, contribute, or reach out for collaboration!
+
