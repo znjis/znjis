@@ -4,7 +4,7 @@ I'm a **software engineering student** passionate about solving real-world probl
 
 ### 🌱 What I’m Learning
 - Scaling distributed systems and cloud infrastructure
-- Exploring new tools and frameworks in the software engineering world, including **Kafka**, **Golang**, and **React**
+- Exploring new tools and frameworks in the software engineering world, including **Kafka**, **Golang**, and **Kubernetes**
 
 ### 💼 Professional Experience
 - **Bell Canada** – Software Development Intern in Video Delivery Software (VDS) team, contributing to OTT streaming platform scalability and content protection.
